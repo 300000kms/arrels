@@ -16,6 +16,7 @@ http://www.gdal.org/gdalwarp.html
 http://www.gdal.org/gdal_translate.html
 
 '''
+'github formReader modification'
 
 import math
 import pyqrcode
