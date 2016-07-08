@@ -30,7 +30,6 @@ import sqlite3
 import pyspatialite.dbapi2 as pysp
 import scipy.misc
 import scipy.signal
-import requests
 
 imageDebug = True
 scanFolder = 'scan/'
