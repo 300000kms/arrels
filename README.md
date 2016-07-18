@@ -1,5 +1,5 @@
 # arrels
-<img src="https://github.com/300000kms/arrels/blob/master/img/logo.svg">
+<img src="http://github.com/300000kms/arrels/blob/master/img/logo.svg">
 ## Make an atlas, print it, draw, scan and analize. 
 ## The power of the paper for the collaborative surveys!
 
