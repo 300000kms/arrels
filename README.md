@@ -4,10 +4,11 @@
 ## The power of the paper for the collaborative surveys!
 
 ###what is it ?
-This tool has been developed by 30000Km/s to help Arrels foundation to make the annual survey to count homeless people in Barcelona. 
+This tool has been developed by [30000Km/s](http://www.300000kms.net) to help Arrels foundation to make the annual survey to count homeless people in Barcelona. 
 The objective is provide to an amount of 900 volunteers a cartography of the city organized and coordinated to be distributed in different teams
 Once the data is on the paper, it can be scanned and digitized
 
+<img src ="https://raw.githubusercontent.com/300000kms/arrels/master/img/photo.jpg">
 
 ###how is it?
 
