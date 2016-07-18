@@ -1,6 +1,6 @@
 # arrels
 ## Make an atlas, print it, draw, scan and analize. 
-## The power of the paper for the collaborative surveys
+## The power of the paper for the collaborative surveys!
 
 ###what is it ?
 This tool has been developed by 30000Km/s to help Arrels foundation to make the annual survey to count homeless people in Barcelona. 
