@@ -29,3 +29,11 @@ Is made by three main blocks of code:
 - 3 scan reader:
  - 3.1 digitize the maps
  - 3.2 digitize the forms
+  
+ <img src ="https://github.com/300000kms/arrels/blob/master/img/recompte-2016-600x400.jpg?raw=true">
+<br>
+ <img src ="https://github.com/300000kms/arrels/blob/master/img/arrels_viewer.png?raw=true">
+<br>
+ <img src ="https://github.com/300000kms/arrels/blob/master/img/CixFSxBXIAI499s.jpg?raw=true">
+<br>
+
